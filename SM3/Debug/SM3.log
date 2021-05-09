@@ -1,0 +1,3 @@
+﻿  SM3.c
+D:\study\研究生\研一下\国密\代码\SM3\SM3.c(540,11): warning C4013: “system”未定义；假设外部返回 int
+  SM3.vcxproj -> D:\study\研究生\研一下\国密\代码\SM3\Debug\SM3.exe
