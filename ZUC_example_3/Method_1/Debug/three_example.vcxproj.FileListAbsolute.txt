@@ -1,0 +1,2 @@
+D:\study\研究生\研一下\国密\代码\three_example\Debug\three_example.exe
+D:\study\研究生\研一下\国密\代码\three_example\Debug\three_example.pdb

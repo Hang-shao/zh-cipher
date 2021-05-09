@@ -1,0 +1,6 @@
+﻿  zuc.c
+D:\study\研究生\研一下\国密\代码\three_example\zuc.c(117,28): warning C4028: 形参 1 与声明不同
+D:\study\研究生\研一下\国密\代码\three_example\zuc.c(117,46): warning C4028: 形参 2 与声明不同
+D:\study\研究生\研一下\国密\代码\three_example\zuc.c(161,36): warning C4028: 形参 1 与声明不同
+D:\study\研究生\研一下\国密\代码\three_example\zuc.c(161,54): warning C4028: 形参 2 与声明不同
+  three_example.vcxproj -> D:\study\研究生\研一下\国密\代码\three_example\Debug\three_example.exe
