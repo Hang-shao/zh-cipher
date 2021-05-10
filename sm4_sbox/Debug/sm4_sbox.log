@@ -1,0 +1,7 @@
+﻿  xbox.c
+D:\study\研究生\研一下\国密\代码\sm4_sbox\xbox.c(92,16): warning C4101: “temY1”: 未引用的局部变量
+D:\study\研究生\研一下\国密\代码\sm4_sbox\xbox.c(92,9): warning C4101: “temX1”: 未引用的局部变量
+D:\study\研究生\研一下\国密\代码\sm4_sbox\xbox.c(94,9): warning C4101: “i”: 未引用的局部变量
+D:\study\研究生\研一下\国密\代码\sm4_sbox\xbox.c(93,15): warning C4101: “x”: 未引用的局部变量
+D:\study\研究生\研一下\国密\代码\sm4_sbox\xbox.c(127,11): warning C4013: “system”未定义；假设外部返回 int
+  sm4_sbox.vcxproj -> D:\study\研究生\研一下\国密\代码\sm4_sbox\Debug\sm4_sbox.exe
