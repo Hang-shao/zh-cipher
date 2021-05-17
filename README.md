@@ -22,3 +22,9 @@ SM3 国标中例子实现
 # SM4
 ## sm4_sbox
 SM4的S盒实现，打印S盒
+## sm4_string
+对字符串加解密，可以设定加密次数
+## sm4_txt
+对TXT文本加解密
+## sm4_picture
+对图片加解密，目前针对是BMP文件
