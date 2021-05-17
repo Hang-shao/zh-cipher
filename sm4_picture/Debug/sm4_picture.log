@@ -1,0 +1,16 @@
+﻿  main.c
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(6,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(56,18): warning C4098: “bmpEnc”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(94,18): warning C4098: “bmpEnc”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(101,18): warning C4098: “bmpEnc”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(113,18): warning C4098: “bmpEnc”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(121,18): warning C4098: “bmpEnc”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(243,18): warning C4098: “bmpEnc”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(27,9): warning C4101: “length_extra”: 未引用的局部变量
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(302,18): warning C4098: “bmpDec”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(342,18): warning C4098: “bmpDec”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(349,18): warning C4098: “bmpDec”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(361,18): warning C4098: “bmpDec”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(369,18): warning C4098: “bmpDec”:“void”函数返回值
+D:\study\研究生\研一下\国密\代码\sm4_picture\main.c(500,18): warning C4098: “bmpDec”:“void”函数返回值
+  sm4_picture.vcxproj -> D:\study\研究生\研一下\国密\代码\sm4_picture\Debug\sm4_picture.exe

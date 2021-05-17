@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\study\研究生\研一下\国密\代码\sm4_txt\main.cpp(116,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\研究生\研一下\国密\代码\sm4_txt\main.cpp(122,16): warning C4018: “<”: 有符号/无符号不匹配
+  sm4_string.vcxproj -> D:\study\研究生\研一下\国密\代码\sm4_txt\Debug\sm4_string.exe
